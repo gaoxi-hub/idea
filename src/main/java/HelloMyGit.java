@@ -12,5 +12,6 @@ public class HelloMyGit {
         System.out.println("This is My problem");
         System.out.println("DDDDD");
         System.out.println("这是Hello分支");
+        System.out.println("只在Hello上进行了操作");
     }
 }

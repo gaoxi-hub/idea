@@ -12,6 +12,7 @@ public class HelloMyGit {
         System.out.println("This is My problem");
         System.out.println("DDDDD");
         System.out.checkError();
+        System.out.checkError();
         //注释
     }
 }

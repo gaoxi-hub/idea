@@ -10,5 +10,9 @@ public class HelloBranch {
     public static void main(String[] args) {
         //注释
         System.out.println("Hello My New Branch");
+
+        for(int i=0;i<10;i++){
+            System.out.println("hello world");
+        }
     }
 }
